@@ -1,4 +1,7 @@
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_dmojckdmojckdmoj" src="https://github.com/user-attachments/assets/e3024248-6ca4-468f-a2be-a366590dc5fd" />
+
+
 # 🎙️ Projeto {Código} & Café – Ep. 1
 
 > ☕️ Um podcast gerado com o auxílio de Inteligências Artificiais, unindo tecnologia, criatividade e uma boa xícara de café.
@@ -27,16 +30,6 @@ Neste primeiro episódio, explorei ideias sobre o universo da programação e o 
 2. **Áudio** narrado com **ElevenLabs**, utilizando voz com entonação natural e pausas dinâmicas.
 3. **Edição final** realizada no **CapCut**, adicionando sons ambiente, trilha suave e cortes sutis.
 4. **Capa** gerada com prompts no **Gemini** (baseada em prompt de estilo café + tecnologia).
-
----
-
-## 🎧 Materiais do projeto
-
-* 🎬 **Capa do podcast:**
-  ![Capa do Episódio 1](Gemini_Generated_Image_dmojckdmojckdmoj.png)
-
-* 🔊 **Episódio completo:**
-  [Clique aqui para ouvir o áudio](1110%281%29.MP3)
 
 ---
 
